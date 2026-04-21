@@ -1,2 +1,0 @@
-# citadel-push
-citadel-push
